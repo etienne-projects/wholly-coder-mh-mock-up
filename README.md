@@ -51,7 +51,7 @@ The following is a list of features used to create a more responsive design. Wee
 [MarjorieEtienne.com](marjorieetienne.com)
 
 ## [Acknowledgments](#acknowledgments)
-* @WhollyCoders - This was a project created for WMI. Inc's Wholly Coder internship
+* [WhollyCoders](http://www.whollycoders.org) - This was a project created for WMI. Inc's Wholly Coder internship
 * [MichaelHyatt.com](https://michaelhyatt.com/)
 * W3Schools
 

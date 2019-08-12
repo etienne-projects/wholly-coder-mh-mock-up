@@ -1,5 +1,5 @@
 # Parallax Mock-Up
-The purpose of this mock-up was to develope a site with similar features used for [Michael Hyatt's](https://michaelhyatt.com/) website. Features such as the parallax background image effect, side navigation menu, etc.
+The purpose of this mock-up was to create a site with similar features to the ones used on [Michael Hyatt's](https://michaelhyatt.com/) website. Features such as the parallax background image effect, side navigation menu, etc.
 
 
 ## Table of Contents

@@ -25,7 +25,7 @@ JavaScript
 The following is a list of features used to create a more responsive design. Weeds & Flowers are a list of features deemed as extra. All unchecked items are features yet to be added.
 
 ### [MVP Features](#mvp-features)
-- [x] Fixed top navigation bar with a place for logo, logo text, navigation links, and side menu button
+- [x] A fixed top navigation bar with a place for a logo, logo text, navigation links, and side menu button
 - [x] Side navigation bar, mainly for smaller screens without space for a top navigation bar
 - [x] Parallax background images
 - [x] Sections with : Header, text, and buttons (Optional Logo Header based on [MichaelHyatt.com](https://michaelhyatt.com/))
@@ -51,7 +51,7 @@ The following is a list of features used to create a more responsive design. Wee
 [MarjorieEtienne.com](marjorieetienne.com)
 
 ## [Acknowledgments](#acknowledgments)
-* [WhollyCoders](http://www.whollycoders.org) - This was a project created for WMI. Inc's Wholly Coder internship
+* [WhollyCoders](http://www.whollycoders.org) - This is a project that was created for WMI. Inc's Wholly Coder internship
 * [MichaelHyatt.com](https://michaelhyatt.com/)
 * W3Schools
 
